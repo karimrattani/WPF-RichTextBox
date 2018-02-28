@@ -9,6 +9,9 @@ First APP on WPF for learning purpose. Using RichTextBox to highlight usernames 
 
   Should be able to handle when text is copy-pasted in
   
+  
+### Example Output
+![alt text](http://www.hostpic.org/images/1802280748000107.png)
 
   
 
