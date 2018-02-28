@@ -49,7 +49,7 @@ namespace RichTextBoxSocialMedia
                 TextPointerContext context = navigator.GetPointerContext(LogicalDirection.Backward);
                 if (context == TextPointerContext.ElementStart && navigator.Parent is Run)
                 {
-                    CheckWordsInRun((Run)navigator.Parent);
+                    checkWords((Run)navigator.Parent);
 
                 }
                 navigator = navigator.GetNextContextPosition(LogicalDirection.Forward);
@@ -81,7 +81,7 @@ namespace RichTextBoxSocialMedia
 
         List<wordList> words = new List<wordList>(); //store all the valid username and hashtags
 
-        private void CheckWordsInRun(Run run)
+        private void checkWords(Run run)
         {
             
             string inp = run.Text; // converts the run into text
