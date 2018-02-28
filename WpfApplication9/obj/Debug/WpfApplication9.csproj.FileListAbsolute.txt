@@ -1,0 +1,13 @@
+c:\users\karim\documents\visual studio 2013\Projects\WpfApplication9\WpfApplication9\obj\Debug\WpfApplication9.csprojResolveAssemblyReference.cache
+c:\users\karim\documents\visual studio 2013\Projects\WpfApplication9\WpfApplication9\obj\Debug\MainWindow.baml
+c:\users\karim\documents\visual studio 2013\Projects\WpfApplication9\WpfApplication9\obj\Debug\MainWindow.g.cs
+c:\users\karim\documents\visual studio 2013\Projects\WpfApplication9\WpfApplication9\obj\Debug\App.g.cs
+c:\users\karim\documents\visual studio 2013\Projects\WpfApplication9\WpfApplication9\obj\Debug\WpfApplication9.csproj.GenerateResource.Cache
+C:\Users\karim\Documents\Visual Studio 2013\Projects\WpfApplication9\WpfApplication9\bin\Debug\RichTextBoxSocialMedia.exe.config
+C:\Users\karim\Documents\Visual Studio 2013\Projects\WpfApplication9\WpfApplication9\bin\Debug\RichTextBoxSocialMedia.exe
+C:\Users\karim\Documents\Visual Studio 2013\Projects\WpfApplication9\WpfApplication9\bin\Debug\RichTextBoxSocialMedia.pdb
+C:\Users\karim\Documents\Visual Studio 2013\Projects\WpfApplication9\WpfApplication9\obj\Debug\RichTextBoxSocialMedia_MarkupCompile.cache
+C:\Users\karim\Documents\Visual Studio 2013\Projects\WpfApplication9\WpfApplication9\obj\Debug\RichTextBoxSocialMedia.g.resources
+C:\Users\karim\Documents\Visual Studio 2013\Projects\WpfApplication9\WpfApplication9\obj\Debug\RichTextBoxSocialMedia.Properties.Resources.resources
+C:\Users\karim\Documents\Visual Studio 2013\Projects\WpfApplication9\WpfApplication9\obj\Debug\RichTextBoxSocialMedia.exe
+C:\Users\karim\Documents\Visual Studio 2013\Projects\WpfApplication9\WpfApplication9\obj\Debug\RichTextBoxSocialMedia.pdb
